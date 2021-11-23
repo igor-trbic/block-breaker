@@ -686,6 +686,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 961801271, guid: 3b4ed6327034cc74db2a6c2d8fe64245, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7150793917959264577, guid: 3b4ed6327034cc74db2a6c2d8fe64245, type: 3}
       propertyPath: m_Name
       value: GameStatus

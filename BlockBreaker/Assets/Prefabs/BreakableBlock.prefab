@@ -73,8 +73,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a00fb48f34c19685aa884ff2774f8f79, type: 3}
-  m_Color: {r: 1, g: 0.9315591, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 768b4158bf4cbf8f496a0d2b47298af7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -97,18 +97,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.010492563, y: 0}
+  m_Offset: {x: 0.0031514168, y: -0.0036706924}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.1171875, y: 1.15625}
     newSize: {x: 1.28, y: 1.28}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.1027765, y: 1.1394835}
   m_EdgeRadius: 0
 --- !u!114 &8300197476044116555
 MonoBehaviour:
@@ -122,5 +122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57d47a63bab2b8a38a28cadf3d2cdc09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 8300000, guid: 0e42f05853aa53981a55a3969a4352cc, type: 3}
+  breakSound: {fileID: 8300000, guid: d36d3c50823d53ddc8e6f8dc8a24bdaf, type: 3}
   blockDestroyVFX: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+  hitSprites: []
+  timesHit: 0

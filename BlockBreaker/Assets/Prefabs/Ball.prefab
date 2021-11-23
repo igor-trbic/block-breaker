@@ -139,10 +139,10 @@ MonoBehaviour:
   velocityX: 2
   velocityY: 15
   ballSounds:
-  - {fileID: 8300000, guid: 9e121f030c141b41aab8f9facc26afa4, type: 3}
-  - {fileID: 8300000, guid: 31cfdb3f5ec1c9d67aa0f0e3863ea77a, type: 3}
-  - {fileID: 8300000, guid: 0fecb3bb6469dc63a8ef7d07b1236c00, type: 3}
-  - {fileID: 8300000, guid: db03fe560e5eacf3dbd6420f88fc341c, type: 3}
+  - {fileID: 8300000, guid: 528141488e0de6d04b39b6c5d543b7a5, type: 3}
+  - {fileID: 8300000, guid: 97fc9b4b2582b3bd4a04755eef36ed13, type: 3}
+  - {fileID: 8300000, guid: 17e9150f377b3595d952a6c18e6be93c, type: 3}
+  - {fileID: 8300000, guid: 6c508c625a03afc60b3f6c16d38cf52c, type: 3}
   randomFactor: 1
 --- !u!82 &-4270104969132180347
 AudioSource:
